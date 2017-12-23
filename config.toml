@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "sal.as"
+
+theme = 'kiera'
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Francisco Salas"       #Author name
+    github = "franksalas"     #Github username
+    gitlab = ""     #Gitlab username
+    linkedin = "frank-salas"   #LinkedIn username
+    facebook = ""   #Facebook username
+    twitter = "franksalas"    #Twitter username
+    instagram = ""  #Instagram username
+
+[params]
+    tagline = "the tagline for this website"
